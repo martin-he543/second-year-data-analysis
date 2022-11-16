@@ -1,0 +1,28 @@
+# Initialise the simulation - needed at the start of all macros
+/control/execute init.mac
+
+# Initialise the visualisation - needed if you are running the visualisation
+/control/execute vis.mac
+
+# Options to control which particles are shown in the visualiser
+
+# Choose not to store particle trajectory information - the trajectories are only needed for visualisation, so switch off if running in batch mode
+#/tracking/storeTrajectory 0
+
+# Only display events where a particle is detected.
+#/action/setStoreDetectedOnly
+
+# Options to increase the speed of the simulation at the expense of accuracy
+
+# When particles leave the detector housing in the negative direction we kill it - these particles will not reach the detector, so do not need to be simulated.
+#/action/killBackwardToggle
+
+# /lab/ commands are used to setup the actual lab experiment - these are explained in the script appendix.
+/lab/benchOn
+/lab/Source 0 0 -10 0
+/lab/SiDetAndCasing 0 0 10 0
+
+# Generate 1000 decays / particles
+/run/beamOn 100000
+/vis/ogl/set/displayListLimit 10000000
+
