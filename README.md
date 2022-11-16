@@ -20,3 +20,4 @@ conda install opencv-python
 - Waves Lab Cycle
 
 ### Radioactivity Lab Cycle
+You can find this in the ```Cycle 1 Radioactivity``` folder. You should be able to obtain plots that look similar to the following, after fixing import errors:
