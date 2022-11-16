@@ -44,7 +44,6 @@ You can find this in the ```Cycle 1 Radioactivity``` folder. You should be able 
 ![task 19 rcsp](https://raw.githubusercontent.com/martin-he543/second-year-data-analysis/main/Cycle%201%20Radioactivity/plots/Task%2019%20RCSP.png)
 ![task 19](https://raw.githubusercontent.com/martin-he543/second-year-data-analysis/main/Cycle%201%20Radioactivity/plots/Task%2019.png)
 ![task 20 cs](https://raw.githubusercontent.com/martin-he543/second-year-data-analysis/main/Cycle%201%20Radioactivity/plots/Task%2020%20CS.png)
-![task 20 csi](https://raw.githubusercontent.com/martin-he543/second-year-data-analysis/main/Cycle%201%20Radioactivity/plots/Task%2020%20CSI.png)
 ![task 20 csp](https://raw.githubusercontent.com/martin-he543/second-year-data-analysis/main/Cycle%201%20Radioactivity/plots/Task%2020%20CSP.png)
 ![task 20 exp](https://raw.githubusercontent.com/martin-he543/second-year-data-analysis/main/Cycle%201%20Radioactivity/plots/Task%2020%20Exp.png)
 ![task 20 rcsp](https://raw.githubusercontent.com/martin-he543/second-year-data-analysis/main/Cycle%201%20Radioactivity/plots/Task%2020%20RCSP.png)
